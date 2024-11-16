@@ -22,7 +22,7 @@ public class ClassP
 		ClassP dish3=new ClassP("Mughlai","100g",150);
 		
 		
-		
+		System.out.println("testing git");
 		System.out.println("chicheken details :"+dish1.dishchickenname+" "+dish1.dishquantity+" "+dish1.dishprice+" "+restuarent);
 		System.out.println("chicheken details :"+dish2.dishchickenname+" "+dish2.dishquantity+" "+dish2.dishprice+" "+restuarent);
 		System.out.println("chicheken details :"+dish3.dishchickenname+" "+dish3.dishquantity+" "+dish3.dishprice+" "+restuarent);
